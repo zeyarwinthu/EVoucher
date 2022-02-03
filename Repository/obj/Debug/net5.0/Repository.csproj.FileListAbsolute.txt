@@ -1,0 +1,15 @@
+C:\Test\eVoucherManagement\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\Test\eVoucherManagement\Repository\bin\Debug\net5.0\Repository.dll
+C:\Test\eVoucherManagement\Repository\bin\Debug\net5.0\ref\Repository.dll
+C:\Test\eVoucherManagement\Repository\bin\Debug\net5.0\Repository.pdb
+C:\Test\eVoucherManagement\Repository\bin\Debug\net5.0\Model.dll
+C:\Test\eVoucherManagement\Repository\bin\Debug\net5.0\Model.pdb
+C:\Test\eVoucherManagement\Repository\obj\Debug\net5.0\Repository.csprojAssemblyReference.cache
+C:\Test\eVoucherManagement\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\eVoucherManagement\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\Test\eVoucherManagement\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\Test\eVoucherManagement\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\Test\eVoucherManagement\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+C:\Test\eVoucherManagement\Repository\obj\Debug\net5.0\Repository.dll
+C:\Test\eVoucherManagement\Repository\obj\Debug\net5.0\ref\Repository.dll
+C:\Test\eVoucherManagement\Repository\obj\Debug\net5.0\Repository.pdb

@@ -1,0 +1,17 @@
+C:\Test\eVoucherManagement\BAL\bin\Debug\net5.0\BAL.deps.json
+C:\Test\eVoucherManagement\BAL\bin\Debug\net5.0\BAL.dll
+C:\Test\eVoucherManagement\BAL\bin\Debug\net5.0\ref\BAL.dll
+C:\Test\eVoucherManagement\BAL\bin\Debug\net5.0\BAL.pdb
+C:\Test\eVoucherManagement\BAL\bin\Debug\net5.0\Model.dll
+C:\Test\eVoucherManagement\BAL\bin\Debug\net5.0\Repository.dll
+C:\Test\eVoucherManagement\BAL\bin\Debug\net5.0\Model.pdb
+C:\Test\eVoucherManagement\BAL\bin\Debug\net5.0\Repository.pdb
+C:\Test\eVoucherManagement\BAL\obj\Debug\net5.0\BAL.csprojAssemblyReference.cache
+C:\Test\eVoucherManagement\BAL\obj\Debug\net5.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\eVoucherManagement\BAL\obj\Debug\net5.0\BAL.AssemblyInfoInputs.cache
+C:\Test\eVoucherManagement\BAL\obj\Debug\net5.0\BAL.AssemblyInfo.cs
+C:\Test\eVoucherManagement\BAL\obj\Debug\net5.0\BAL.csproj.CoreCompileInputs.cache
+C:\Test\eVoucherManagement\BAL\obj\Debug\net5.0\BAL.csproj.CopyComplete
+C:\Test\eVoucherManagement\BAL\obj\Debug\net5.0\BAL.dll
+C:\Test\eVoucherManagement\BAL\obj\Debug\net5.0\ref\BAL.dll
+C:\Test\eVoucherManagement\BAL\obj\Debug\net5.0\BAL.pdb

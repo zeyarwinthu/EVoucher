@@ -1,0 +1,12 @@
+C:\Test\eVoucherManagement\Model\bin\Debug\net5.0\Model.deps.json
+C:\Test\eVoucherManagement\Model\bin\Debug\net5.0\Model.dll
+C:\Test\eVoucherManagement\Model\bin\Debug\net5.0\ref\Model.dll
+C:\Test\eVoucherManagement\Model\bin\Debug\net5.0\Model.pdb
+C:\Test\eVoucherManagement\Model\obj\Debug\net5.0\Model.csprojAssemblyReference.cache
+C:\Test\eVoucherManagement\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\eVoucherManagement\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+C:\Test\eVoucherManagement\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+C:\Test\eVoucherManagement\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+C:\Test\eVoucherManagement\Model\obj\Debug\net5.0\Model.dll
+C:\Test\eVoucherManagement\Model\obj\Debug\net5.0\ref\Model.dll
+C:\Test\eVoucherManagement\Model\obj\Debug\net5.0\Model.pdb
